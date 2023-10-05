@@ -1,1 +1,2 @@
-repertoire_actuel=$(pwd)
+#!bin/bash
+pwd
